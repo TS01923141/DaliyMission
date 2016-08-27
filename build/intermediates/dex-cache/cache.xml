@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Android-6-Tutorial\DaliyMission\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cd145f0b8be81bd9248892beb29e620efe111287">
+        <dex dex="E:\Android\Android-6-Tutorial\DaliyMission\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b722e635c83e57b98085da8b5daf3fcaa48a5db2\classes.dex" />
+    </item>
+
+</items>
